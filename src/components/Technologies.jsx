@@ -37,7 +37,7 @@ function Technologies() {
           <SiHuggingface className="text-7xl text-yellow-400" />
         </div>
         <div className="rounded-2xl border-4 border-neutral-800 p-4">
-          <SiOpenai className="text-7xl " />
+          <SiOpenai className="text-7xl text-indigo-400" />
         </div>
       </div>
     </div>
