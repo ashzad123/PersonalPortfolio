@@ -1,6 +1,6 @@
 import React from "react";
 import { HERO_CONTENT } from "../constants";
-import profilePic from "../assets/kevinRushProfile.png";
+import profilePic from "../assets/my_profile.png";
 import { delay, motion } from "framer-motion";
 
 const container = (delay) => ({
@@ -38,7 +38,7 @@ const Hero = () => {
                 via-slate-500 to-purple-500 bg-clip-text text-3xl
                 tracking-tight text-transparent"
             >
-              Full Stack Developer
+              AI/ML Engineer, Software Developer
             </motion.span>
             <motion.p
               variants={container(1)}
